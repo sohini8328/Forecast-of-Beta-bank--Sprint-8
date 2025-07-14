@@ -1,4 +1,5 @@
 🏦Forecast-of-Beta-bank's Customer loyalty-Sprint-8
+
 📌 Objective
 The goal of this project is to develop a machine learning model to help Beta Bank analyze customer loyalty and predict potential churn. By identifying customers who may be considering switching to another financial institution, the bank can proactively investigate the causes and implement strategies to improve customer retention.
 
